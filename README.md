@@ -1,6 +1,6 @@
 # Welcome to the Spreedbox Git project
 
-This repository holds Spreedbox related documentation instructions ans FAQs.
+This repository contains Spreedbox related documentation instructions and FAQs.
 
 See [https://www.spreed.me/spreedbox/](https://www.spreed.me/spreedbox/) for general information on the Spreedbox.
 
